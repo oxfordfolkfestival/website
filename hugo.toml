@@ -1,0 +1,9 @@
+baseURL = 'https://www.oxfordfolkfestival.org.uk/'
+languageCode = 'en-GB'
+title = 'Oxford Folk Festival'
+theme = 'off'
+timeout = '60s'
+sectionPagesMenu = 'main'
+
+[markup.goldmark.renderer]
+unsafe= true
